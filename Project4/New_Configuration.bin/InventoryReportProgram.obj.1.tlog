@@ -1,0 +1,6 @@
+#"C:\Program Files (x86)\Micro Focus\Visual COBOL\bin\cobol.exe" C:\Users\amarj\workspace\Project4.zip_expanded\Project4\Project4\InventoryReportProgram.cbl DELINT USEC:\Users\amarj\workspace\Project4.zip_expanded\Project4\Project4\New_Configuration.bin\mfant8203324512715499016.dir ;
+^C:\Users\amarj\workspace\Project4.zip_expanded\Project4\Project4\InventoryReportProgram.cbl
+!"E:\level 3\Cobol\projects\project 4\InventRecord.TXT"
+?"E:\level 3\Cobol\projects\project 4\InventRecord.TXT"
+!$COBCPY\InventRecord.TXT
+?C:\Users\amarj\workspace
